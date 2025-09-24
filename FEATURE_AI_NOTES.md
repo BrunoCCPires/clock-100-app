@@ -1,0 +1,1 @@
+Basic clock implementation with time and date display. Uses React hooks (useState, useEffect) for time updates and includes minimal styling.
